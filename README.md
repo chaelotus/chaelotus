@@ -7,7 +7,7 @@ I'm **front-end** deveploper!
 
 <p>
   <a href="pcy6904@naver.com" target="_blank"><img src="https://img.shields.io/badge/pcy6904@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>  
+  <a href="https://lotusstudy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>  
 </p>
 
 <br/>
